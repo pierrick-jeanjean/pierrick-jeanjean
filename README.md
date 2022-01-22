@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Pierrick
 
-<!--
-**pierrick-jeanjean/pierrick-jeanjean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer, mainly in __Java (Spring, ...) / Angular 2+__
 
-Here are some ideas to get you started:
+After few years experiencing software development, I decided to dig deeper in that field.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub profile is where I will try to spend most of my free time :
+
+- :truck: building side projects
+- :hammer_and_wrench: breaking/fixing these side projects
+- :star2:	experiencing modern technologies, best coding practices
+
+Stay tuned !
