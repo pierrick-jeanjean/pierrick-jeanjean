@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Pierrick
 
-I am a software developer, mainly in __Java (Spring, ...) / Angular 2+__
+I am a software developer, mainly in __Java (Spring, ...) / Angular__
 
 After few years experiencing software development, I decided to dig deeper in that field.
 
